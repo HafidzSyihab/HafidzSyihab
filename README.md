@@ -1,4 +1,4 @@
-[![MasterHead](https://indusuni.ac.in/uploads/blogs/iite/Understanding%20the%20Hype%20Around%20Machine%20Learning.gif)]
+![MasterHead](https://indusuni.ac.in/uploads/blogs/iite/Understanding%20the%20Hype%20Around%20Machine%20Learning.gif)
 <h1 align="center">Hi 👋, I'm Hafidz Syihab</h1>
 <h3 align="center">Proficient in data science, using advanced analytics to improve decision-making and financial strategies</h3>
 <img align="right" alt="Coding" width="400" src="https://guruprasad.codes/_ipx/w_750,q_75/%2F_next%2Fstatic%2Fmedia%2Fcoder.41289687.gif">
